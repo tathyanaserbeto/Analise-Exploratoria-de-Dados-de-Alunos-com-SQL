@@ -2,17 +2,11 @@
 
 ## Contexto
 
-Este projeto simula uma base de dados fictícia de alunos contendo informações como:
-* Gênero
-* Data de nascimento
-* Nacionalidade
-* Peso
-* Altura
-* Profissão
+Este projeto simula uma base de dados fictícia de alunos contendo informações como: gênero, data de nascimento, nacionalidade, peso, altura e profissão.
 
-O banco de dados e os exercícios foram propostos no curso de MySQL do Curso em Vídeo pelo professor Gustavo Guanabara. O objetivo é aplicar consultas SQL para responder perguntas de negócio e identificar padrões, reforçando conceitos fundamentais de análise de dados na prática.
+O banco de dados e os exercícios foram propostos no curso de MySQL do Curso em Vídeo pelo professor Gustavo Guanabara. 
 
----
+O objetivo é aplicar consultas SQL para responder perguntas de negócio e identificar padrões, reforçando conceitos fundamentais de análise de dados na prática.
 
 ## Problema de Negócio
 
@@ -21,16 +15,12 @@ Uma instituição educacional deseja entender melhor o perfil dos seus alunos pa
 * Identificar padrões demográficos
 * Apoiar decisões acadêmicas e administrativas
 
----
-
 ## Tecnologias Utilizadas
 
 * SQL (MySQL)
 * DBeaver
 
----
-
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```bash
 ├── README.md
@@ -38,8 +28,6 @@ Uma instituição educacional deseja entender melhor o perfil dos seus alunos pa
 ├── database.sql
 └── resultados.md
 ```
-
----
 
 ## Principais Análises
 
@@ -49,8 +37,6 @@ Uma instituição educacional deseja entender melhor o perfil dos seus alunos pa
 * Calcular métricas estatísticas de peso e altura (média, mínimo e máximo)  
 * Avaliar a presença de alunos estrangeiros por país  
 * Identificar perfis com características acima da média da base  
-
----
 
 ## Conclusão
 
